@@ -9,8 +9,6 @@ def get_chars():
     :return: string
     """
     chars = string.ascii_letters
-    chars += string.digits
-    chars += '!@#$%^&*()_+'
     return chars
 
 def code_generator(size=SIZE_OF_SHORTCODE):
