@@ -25,7 +25,7 @@ SECRET_KEY = '_s)$yx%f&k(3a-_4je1g(8^)&7vv2s)bt@pya1-91!^tln*7()'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kirr.dev']
 
 
 # Application definition
